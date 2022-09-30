@@ -1,0 +1,90 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 23628
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 1763,10334,24048,37763,53191,66905,80620,94334,107620
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Violet Perfume
+TitleUnicode:바이올렛 퍼퓸
+Artist:SHK
+ArtistUnicode:SHK
+Creator:ktgster
+Version:Ending
+Source:PUMP IT UP - 2015 PRIME -
+Tags:펌프잇업 matrix sound​holic​k
+BeatmapID:0
+BeatmapSetID:1010865
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:8
+ApproachRate:8
+SliderMultiplier:1.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"maxresdefault.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1771,428.571428571429,4,2,1,40,1,0
+24056,-100,4,2,1,50,0,0
+37771,-100,4,2,1,40,0,0
+44628,-100,4,2,1,50,0,0
+52771,-100,4,2,1,40,0,0
+66913,-100,4,2,1,50,0,0
+107199,-100,4,2,1,60,0,0
+
+
+[Colours]
+Combo1 : 255,132,255
+Combo2 : 191,128,255
+Combo3 : 255,15,255
+Combo4 : 124,0,249
+
+[HitObjects]
+284,221,104413,5,0,0:0:0:0:
+255,249,104521,1,0,0:0:0:0:
+284,277,104628,1,12,0:0:0:0:
+340,335,104842,1,0,0:0:0:0:
+396,277,105056,1,0,1:0:0:0:
+284,163,105271,5,0,0:0:0:0:
+256,134,105378,1,0,0:0:0:0:
+228,163,105485,1,8,0:0:0:0:
+172,221,105699,1,0,0:0:0:0:
+228,279,105913,1,0,1:0:0:0:
+144,366,106235,1,0,0:0:0:0:
+116,337,106342,5,12,0:0:0:0:
+144,308,106449,1,0,0:0:0:0:
+172,279,106556,1,0,0:0:0:0:
+144,250,106663,1,0,0:0:0:0:
+116,221,106771,1,4,1:2:0:0:
+88,192,106878,1,0,0:0:0:0:
+60,163,106985,1,0,0:0:0:0:
+88,134,107092,1,0,0:0:0:0:
+116,105,107199,5,14,1:2:0:0:
+255,249,107413,1,10,1:2:0:0:
+396,105,107628,1,14,1:2:0:0:
